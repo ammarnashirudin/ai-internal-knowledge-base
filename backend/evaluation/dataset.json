@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q001",
+    "question": "Who approves expenses above $70?",
+    "expected_answer": "Manager approval",
+    "expected_source": "Employee Expense Policy"
+  },
+  {
+    "id": "q002",
+    "question": "How long do employees have to submit reimbursement claims?",
+    "expected_answer": "14 days",
+    "expected_source": "Employee Expense Policy"
+  },
+  {
+    "id": "q003",
+    "question": "Who approves expenses above $2,000?",
+    "expected_answer": "Not found",
+    "expected_source": null
+  },
+  {
+    "id": "q004",
+    "question": "What is the company's maternity leave policy?",
+    "expected_answer": "Not found",
+    "expected_source": null
+  }
+]
